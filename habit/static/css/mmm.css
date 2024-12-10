@@ -1,0 +1,14 @@
+.btn-transparent {
+    background-color: transparent;
+    color: white;
+    border: none;
+    padding: 0;
+    font-size: 1rem;
+    transition: color 0.3s ease;
+    text-decoration: none;
+}
+
+.btn-transparent:hover {
+    color: #cccccc;
+    text-decoration: none;
+}
